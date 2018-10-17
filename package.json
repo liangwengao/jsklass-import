@@ -1,5 +1,5 @@
 {
-  "name": "jsklass-es-import",
+  "name": "jsklass-import",
   "version": "1.0.0",
   "description": "jsklass, framework for ES6 oop converted to Es5 in javascript, inspired from https://github.com/liangwengao/jsklass-import",
   "main": "index.js",
