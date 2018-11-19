@@ -24,7 +24,7 @@
     "klass"
   ],
   "author": "awen",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/liangwengao/jsklass-import/issues"
   },
