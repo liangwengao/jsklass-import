@@ -1,6 +1,6 @@
 
 export {
   DefClass,
-  DefInterface,
-  InterfaceType
+  DefProtocol,
+  ProtocolType
 } from './lib/jsklass';
